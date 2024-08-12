@@ -19,6 +19,10 @@ d. Daftar/List Topik Training terdapat filter berdasarkan Divisi: Marketing, IT,
 Laravel 10, PHP 8.3.3
 ```
 
+<b>Please Clone My Project</b>
+```
+https://github.com/WayanBerdyanto/LearningDetik.git
+```
 <b>composer update</b>
 ```
 composer update
@@ -49,4 +53,10 @@ php artisan db:seed --class=KejuruanSeeder
 ```
 php artisan db:seed --class=ListTopikSeeder
 ```
+
+<b>Start Project</b>
+```
+php artisan serve
+```
+
 
